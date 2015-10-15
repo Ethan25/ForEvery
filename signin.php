@@ -17,11 +17,15 @@
 <body>
 
 	<div id = "menu" class = "unselectable">
-		<div id = "menumain"><a href = "">ForEvery</a></div>
+		<div id = "menumain"><a href = "">ForEver</a></div>
 		<ul>
 			<li><a href = "">Home</a></li>
 			<li><a href = "">Account</a></li>
 		</ul>
+	</div>
+	
+	<div id = "profpic" class = "unselectable">
+		
 	</div>
 
 </body>
